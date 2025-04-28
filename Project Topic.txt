@@ -1,5 +1,0 @@
-Name: Trevor Huffstetler
-
-Project Topic: Predicting a Cryptocurrency's success on social media sentimen
-
-GitHub Repo: https://github.com/Trevorhuff96/ITCS-5154---Applied-Machine-Learning
